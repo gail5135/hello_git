@@ -6,3 +6,4 @@ Sublime Merge와 Github를 이용하여 Git을 배워봅시다.
 -Gitlab에 원격저장소 생성하기
 -오픈소스에 기여해보기
 문의는 02-YYY-YYYY로 부탁드립니다.
+문의는 010-XXXX-XXXX로 부탁드립니다.
